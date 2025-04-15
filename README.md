@@ -2,4 +2,4 @@
 
 (https://github.com/6geltrik/vertical-car-parking/blob/main/image/IMG_20250226_120615.jpg)
 
-<img src = image/IMG_20250226_120615..jpg width = 500>
+<img src = image/IMG_20250226_120615.jpg width = 800>
